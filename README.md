@@ -1,14 +1,14 @@
 # Personal Website Project
 
 <ul>  
-<li>JavaScript</li>  
-<li>React</li>  
-<li>Node.js</li>  
-<li>HTML</li>  
-<li>CSS</li>  
-<li>Vite</li> 
-<li>Vercel</li>  
-<li>Git</li>  
+<li>Language: JavaScript</li>  
+<li>Framework/Library: React</li>
+<li>Deployment/Development Tool: Vite</li> 
+<li>I Don't Understand Yet: Node.js</li>  
+<li>Markup/Structure: HTML</li>  
+<li>Style: CSS</li>  
+<li>Infrastructure: Vercel</li>  
+<li>Version Control: Git</li>  
 </ul>
 
 # Git Cheat Sheet
