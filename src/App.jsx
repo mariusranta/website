@@ -7,6 +7,7 @@ function App() {
   return (
     <>
       <p>marius . run personal website project</p>
+      <p>00010101011101111101101110</p>
     </>
   )
 }
