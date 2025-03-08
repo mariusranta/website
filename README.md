@@ -2,6 +2,7 @@
 
 # Git Cheat Sheet
 
+<pre>
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 
@@ -25,4 +26,4 @@ git pull <remote_name> <branch_name>	Downloads changes and merges them into the 
 git push <remote_name> <branch_name>	Uploads changes to a remote repository.
 
 git revert <commit_hash>	Creates a new commit that undoes the changes of a previous commit. A safer way to undo changes.
-
+</pre>
