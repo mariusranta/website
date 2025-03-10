@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <HomepageImage />
-      <h1>marius . run personal website project</h1>
+      <h1>marius' personal website</h1>
       <p>00010101011101111101101110</p>
     </div>
   )
